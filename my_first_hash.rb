@@ -27,7 +27,9 @@ def adding
                   "whale bone corsets" => 5, 
                   "porcelain vases" => 2, 
                   "oil paintings" => 3,
-                  
+                  "muskets" => 2,
+                  "gun powder" => 4
                  }
 
+  return shipping_manifest
 end
